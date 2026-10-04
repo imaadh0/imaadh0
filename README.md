@@ -75,5 +75,5 @@ Full-stack engineer based in Sri Lanka with 1.5+ years of experience building pr
 ## Find me
 
 - 🌐 [Portfolio](https://imaadh-portfolio.netlify.app/)
-- 💼 [LinkedIn](https://linkedin.com/in/your-username)
+- 💼 [LinkedIn](https://www.linkedin.com/in/imaadh-ifthikar/)
 - 📫 imaadhifthikar123@gmail.com
